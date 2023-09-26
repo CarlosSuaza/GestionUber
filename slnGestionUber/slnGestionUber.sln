@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{0855C44B-F708-4B00-B3AD-C84ACDB52ECE}"
+	ProjectSection(SolutionItems) = preProject
+		main.py = main.py
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "application", "application", "{FB006AA9-5659-4B41-B8F0-0C7C2F6B4CE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{FB7DF47F-FE8C-49EB-A3C1-C8268ADEF347}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FB006AA9-5659-4B41-B8F0-0C7C2F6B4CE7} = {0855C44B-F708-4B00-B3AD-C84ACDB52ECE}
+		{FB7DF47F-FE8C-49EB-A3C1-C8268ADEF347} = {0855C44B-F708-4B00-B3AD-C84ACDB52ECE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEE0D9E1-1794-4589-901F-F468A242B0A4}
+	EndGlobalSection
+EndGlobal
